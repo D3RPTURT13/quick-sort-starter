@@ -11,7 +11,7 @@ public class QuickSorter {
 	public static int partition(int[] arr, int lo, int hi) {
 		/*
 		 * Partition the integer array arr[] from lo to hi.
-		 * Should return the index of the partition element.
+		 * Should return the index of the pivot element.
 		 */
 	}
 	
